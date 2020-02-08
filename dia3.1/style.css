@@ -1,0 +1,31 @@
+.main-container {
+    height: 600px;
+    background:red ;
+    color: white;
+   
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bandera{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content:center ;
+    
+
+}
+.is-white{
+    
+     background-color: white;    
+
+}
+.is-white2{
+     height: 150px;
+     width: 150px;
+     background-color: white;
+     justify-content: right;
+
+}

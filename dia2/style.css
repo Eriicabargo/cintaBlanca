@@ -1,0 +1,44 @@
+/*Afecta a todos los elementos del sitio*/
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color:rgb(255, 4, 4);
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+p:hover {
+color: chartreuse
+}
+
+body{background: rgb(221, 212, 199);
+}
+
+
+.par{
+    color:green
+}
+.impar{
+    color:blue
+}
+
+#siete{
+    color:gold
+}
+.caja{
+    height: 100px;
+    background: green;
+    border: 1px solid black;
+    padding-left: 10px;
+    margin: 
+
+}
+.cajita {
+    height:50px;
+    width: 50px;
+    background: hotpink;
+    border: 3px dashed blue;
+}
